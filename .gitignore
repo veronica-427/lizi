@@ -1,0 +1,6 @@
+# 忽略大模型权重文件（超过 GitHub 100MB 单文件限制）
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
